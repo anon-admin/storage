@@ -1,0 +1,17 @@
+{
+  "author": "",
+  "dependencies": [{
+  	"name": "Dimitri-simple_puppet", "version_requirement": ">= 0.1.0"
+  },{
+  	"name": "Dimitri-rsyslog", "version_requirement": ">= 0.1.0"
+  }],
+  "license": "",
+  "name": "Dimitri-storage",
+  "operatingsystem_support": [],
+  "project_page": "",
+  "requirements": [],
+  "source": "",
+  "summary": "",
+  "tags": [],
+  "version": "0.1.0"
+}
